@@ -1,0 +1,6 @@
+{
+  "name": "RAKUZZ CYBER",
+  "description": "Protect • Detect • Educate. AI-powered cybersecurity suite featuring phishing detection, URL risk analysis, password auditor, Cyber Academy, and RAKUZZ AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
